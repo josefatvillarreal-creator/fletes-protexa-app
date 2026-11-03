@@ -1,0 +1,16 @@
+{
+  "name": "Fletes Protexa",
+  "short_name": "Fletes",
+  "description": "Solicitudes, autorizaciones y pagos de fletes de Protexa.",
+  "lang": "es-MX",
+  "start_url": "./index.html?desde=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#221f1c",
+  "theme_color": "#f8c000",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
